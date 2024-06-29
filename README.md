@@ -21,7 +21,7 @@
 <div align="center">
 <a href="https://github.com/CristianPerezDomper/WebsiteRestaurant" target="_blank"><img src="https://i.imgur.com/SH3voz4.jpeg" width="400" alt="Sitio web restaurante"></a>
 <p>
-<a href="hhttps://github.com/CristianPerezDomper/WebsiteRestaurant" target="_blank">
+<a href="https://github.com/CristianPerezDomper/WebsiteRestaurant" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-FFF?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://cristianperezdomper.github.io/WebsiteRestaurant/" target="_blank">
