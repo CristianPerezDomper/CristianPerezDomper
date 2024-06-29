@@ -16,6 +16,7 @@
 <table>
 <tr>
 <td width="50%">
+<br>
 <h3 align="center">Sitio web restaurante</h3>
 <div align="center">
 <a href="https://github.com/CristianPerezDomper/WebsiteRestaurant" target="_blank"><img src="https://i.imgur.com/SH3voz4.jpeg" width="400" alt="Sitio web restaurante"></a>
@@ -36,14 +37,14 @@
 <h3 align="center">Aplicación web - ASP.NET MVC</h3>
 <div align="center">                                       
 <a href="https://github.com/CristianPerezDomper/WebAppTiendaDelivery" target="_blank"><img src="https://i.imgur.com/e9muVFd.jpeg" width="400" alt="Aplicación web"></a>
-<br>
 <p>
 <a href="https://github.com/CristianPerezDomper/WebAppTiendaDelivery" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-FFF?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p> Aplicación web desarrollada con ASP.NET MVC, diseñada para facilitar la generación y gestión eficiente de reportes de clientes. Esta herramienta permite a los usuarios acceder a informes detallados de manera rápida y sencilla.</p>
-</div>                                                             
+<p> Aplicación web desarrollada con ASP.NET MVC, diseñada para facilitar la generación y gestión eficiente de reportes de clientes. Esta herramienta permite a los usuarios acceder a informes detallados de manera rápida y sencilla.</p>
+</div>
+</td>
 </table>                                                                                                                                                                     
                                                                                
 <br>
